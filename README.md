@@ -9,6 +9,7 @@ Copied from https://web.archive.org/web/20020226000236/http://haje.kaist.ac.kr/p
  * 설명 : 퍼즐 게임
  * Platform : Win9x/ME, 2000
  * 개발 환경 : Win2000 / DirectX / Visual C++ 6.0
+ * Download: https://github.com/keewon/winter-source-beta-3/releases/tag/winter-beta-3
 
 ## 게임 소개
 
