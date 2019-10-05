@@ -1,0 +1,136 @@
+# Microsoft Developer Studio Generated Dependency File, included by winter.mak
+
+.\Box.cpp : \
+	".\Box.h"\
+	".\Card.h"\
+	
+
+.\Card.cpp : \
+	".\Card.h"\
+	".\Random.h"\
+	
+
+.\play.cpp : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\program files\microsoft visual studio\vc98\include\windows.h"\
+	".\Box.h"\
+	".\Card.h"\
+	".\DirectDraw.h"\
+	".\game.h"\
+	".\ISO.h"\
+	".\play.h"\
+	".\Player.h"\
+	".\Random.h"\
+	".\Sound.h"\
+	".\Sprite.h"\
+	".\UI.h"\
+	".\Unit.h"\
+	
+
+.\LocalPlayer.cpp : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\program files\microsoft visual studio\vc98\include\windows.h"\
+	".\Box.h"\
+	".\Card.h"\
+	".\DirectDraw.h"\
+	".\ISO.h"\
+	".\Player.h"\
+	".\Sound.h"\
+	".\Sprite.h"\
+	".\UI.h"\
+	".\Unit.h"\
+	
+
+.\game.cpp : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\program files\microsoft visual studio\vc98\include\windows.h"\
+	".\Box.h"\
+	".\Card.h"\
+	".\DirectDraw.h"\
+	".\game.h"\
+	".\ISO.h"\
+	".\play.h"\
+	".\Player.h"\
+	".\Sound.h"\
+	".\Sprite.h"\
+	".\UI.h"\
+	".\Unit.h"\
+	
+
+.\DirectDraw.cpp : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\program files\microsoft visual studio\vc98\include\windows.h"\
+	".\DirectDraw.h"\
+	".\ISO.h"\
+	
+
+.\Sound.cpp : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\program files\microsoft visual studio\vc98\include\windows.h"\
+	".\Sound.h"\
+	
+
+.\Sprite.cpp : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\program files\microsoft visual studio\vc98\include\windows.h"\
+	".\DirectDraw.h"\
+	".\ISO.h"\
+	".\Sprite.h"\
+	
+
+.\IP.cpp : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\program files\microsoft visual studio\vc98\include\windows.h"\
+	".\IP.h"\
+	".\ISO.h"\
+	
+
+.\MsgQueue.cpp : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\program files\microsoft visual studio\vc98\include\windows.h"\
+	".\MsgQueue.h"\
+	".\protocol.h"\
+	
+
+.\random.cpp : \
+	".\Random.h"\
+	
+
+.\Menu.cpp : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\program files\microsoft visual studio\vc98\include\windows.h"\
+	".\Menu.h"\
+	".\Unit.h"\
+	
+
+.\Server.cpp : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\program files\microsoft visual studio\vc98\include\windows.h"\
+	".\IP.h"\
+	".\ISO.h"\
+	".\protocol.h"\
+	".\Server.h"\
+	".\Unit.h"\
+	
+
+.\UI.cpp : \
+	"..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\program files\microsoft visual studio\vc98\include\windows.h"\
+	".\Box.h"\
+	".\Card.h"\
+	".\DirectDraw.h"\
+	".\ISO.h"\
+	".\Sound.h"\
+	".\Sprite.h"\
+	".\UI.h"\
+	".\Unit.h"\
+	
+
+.\resource.rc : \
+	".\Resource\Menu\back.bmp"\
+	".\Resource\Server\back.bmp"\
+	".\Resource\Server\computer.bmp"\
+	".\Resource\Server\keyboard.bmp"\
+	".\Resource\Server\Network.bmp"\
+	".\Resource\Server\none.bmp"\
+	
