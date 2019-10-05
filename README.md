@@ -3,14 +3,12 @@
 ![Screenshot of Game Menu](screenshots/menu.jpg)
 
 ![Screenshot of Homepage](screenshots/homepage.jpg)
-
-https://web.archive.org/web/20020226000236/http://haje.kaist.ac.kr/product/winter/main.html
+Copied from https://web.archive.org/web/20020226000236/http://haje.kaist.ac.kr/product/winter/main.html
 
  * 날짜 : 2000-11-23/2001-05-16
  * 설명 : 퍼즐 게임
  * Platform : Win9x/ME, 2000
  * 개발 환경 : Win2000 / DirectX / Visual C++ 6.0
- * 만든이 : 서기원(1999), 신준수(2000), 이규안(2000), 진선웅(2000), 이두화(1999)
 
 ## 게임 소개
 
